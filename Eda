@@ -19,7 +19,6 @@ private:
 
 public:
     void createAccount() {
-        // Test comment
         Account newAccount;
         cout << "\nFut numrin e llogarisë: ";
         cin >> newAccount.accountNumber;
